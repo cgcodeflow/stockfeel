@@ -22,7 +22,7 @@ You can check what it does on https://stockfeel.net
 - Windows (with Python)<br>
 
 ## Requirements<br>
-- Python >= 3.12<br>
+- Python >= 3.10<br>
 Install dependencies with: pip install -r requirements.txt<br>
     Flask>=3.0,<4<br>
     pandas>=2.2,<4<br>
