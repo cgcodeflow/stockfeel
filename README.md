@@ -32,6 +32,17 @@ Install dependencies with: pip install -r requirements.txt<br>
     waitress>=3.0.2,<4<br>
     tzdata>=2024.1<br>
 
+## How to Install ## 
+- Git Clone or Download Stockfeel files. `it clone https://github.com/cgcodeflow/stockfeel.git`
+- Create and activate a virtual environment (venv or conda):
+  `cd stockfeel`<br>
+  `python3 -m venv .venv`<br>
+  `source .venv/bin/activate`<br>
+- Install dependencies. `pip install -r requirements.txt`
+- (Optional) Edit settings in the `.ini` file.
+- Run the server: `python stockfeel.py`
+- Open your web browser and go to `http://127.0.0.1:55557` (from another device, use this machine's IP address instead).
+
 ## Data source<br>
 Market data is fetched with [yfinance](https://github.com/ranaroussi/yfinance), an unofficial library that uses Yahoo Finance's publicly available data. Data fetching can be somewhat slow.<br>
 Since Yahoo Finance does not provide the KOSDAQ 150 index, Korean market data is built by fetching and updating each constituent stock individually.<br>
