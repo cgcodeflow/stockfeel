@@ -1,6 +1,6 @@
 # StockFeel<br>
 
-한국어는 "README_한글"을 참조해주세요<br>
+한국어는 "[README_한글](https://github.com/cgcodeflow/stockfeel/blob/main/README_%ED%95%9C%EA%B8%80.md)"을 참조해주세요<br>
 
 A lightweight Python web server that scores major US and Korean stocks by their 1-week, 3-month, and drawdown-from-high volatility, and displays the results as intuitive mood icons.<br>
 You can check what it does on https://stockfeel.net
