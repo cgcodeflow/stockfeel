@@ -1,4 +1,4 @@
-# stockfeel<br>
+# StockFeel<br>
 
 한국어는 "README_한글"을 참조해주세요<br>
 
