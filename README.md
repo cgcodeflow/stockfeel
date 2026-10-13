@@ -33,7 +33,7 @@ Install dependencies with: pip install -r requirements.txt<br>
     tzdata>=2024.1<br>
 
 ## Data source<br>
-Market data is fetched with [yfinance](https://github.com/ranaroussi/yfinance),<br>, an unofficial library that uses Yahoo Finance's publicly available data. Data fetching can be somewhat slow.<br>
+Market data is fetched with [yfinance](https://github.com/ranaroussi/yfinance), an unofficial library that uses Yahoo Finance's publicly available data. Data fetching can be somewhat slow.<br>
 Since Yahoo Finance does not provide the KOSDAQ 150 index, Korean market data is built by fetching and updating each constituent stock individually.<br>
 
 ## Configuration
