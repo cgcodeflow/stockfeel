@@ -15,13 +15,6 @@ stockfeel_nas.ini 수정 후 프로세스/컨테이너를 재시작하세요.
 - data.market_cap_refresh_seconds: 시가총액 86400초
 - storage.cache_dir: INI 위치 기준 상대 경로 또는 절대 경로
 
-## Container Manager
-NAS에 stockfeel_nas.py, stockfeel_nas.ini, stockfeel_nas_requirements.txt, stockfeel.html, stockfeel_assets 폴더, stockfeel_nas_cache 폴더, Dockerfile.nas, compose.nas.yaml을 복사하세요.
-프로젝트에서 compose.nas.yaml을 사용하거나 SSH에서 다음 명령으로 실행합니다.
-
-    docker compose -f compose.nas.yaml up -d --build
-
-http://NAS_IP:55557 로 접속합니다. 포트 매핑은 NAS 포트:컨테이너 포트이며 INI port 변경 시 오른쪽 포트도 맞추세요. 캐시와 설정은 NAS 폴더에 유지됩니다. 캐시 경로를 바꾸면 볼륨 연결도 수정하세요. 기존 캐시를 쓰려면 서버 정지 후 stockfeel_cache/stockfeel.sqlite3를 stockfeel_nas_cache/stockfeel.sqlite3로 복사하세요.
 
 ## Python 직접 실행
 Python 3.10 이상과 가상환경을 권장합니다.
