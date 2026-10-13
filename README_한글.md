@@ -4,19 +4,21 @@
 <br>
 어떤 기능인지는 우측 사이트에서 먼저 체크해 볼 수 있습니다 : https://stockfeel.net
 
-## What it does
-- Scores representative stocks in the **US** and **Korean** markets based on 1-week / 3-month price changes and distance from their recent high.<br>
-- Shows the **mood of each sector** at a glance, so you can see how the trend has developed so far.<br>
-- Shows the **Return on Investment** of a hypothetical $100 invested 1 week ago and 3 months ago, to help you read the overall market sentiment.<br>
+<img width="1493" height="1143" alt="image" src="https://github.com/user-attachments/assets/fa976dd1-cbaa-45ec-8229-f31a67cbaf2b" />
 
-## Supported markets<br>
-- US stock market<br>
-- Korean stock market (KOSPI 200 / KOSDAQ 150)<br>
+## 무엇을 하는 코드인가
+- 미장/한국장의 단기/중기 추세를 기반으로 점수를 내고 투자성과와 분위기를 보여줍니다.<br>
+- 각 대표 지수의 섹터별 분위기를 보여주며, 세부 항목으로 들어가면, 해당 종목(티커)의 점수를 표시합니다. <br>
+- 1주/3개월전에 미장은 $100, 한국장은 10만원을 투자했을 때 현재 얼마가 되었는지를 보여줍니다.<br>
+
+## 지원마켓<br>
+- 한국장(코스피 200, 코스닥 150)<br>
+- 미국(S&P500, 나스닥 100)<br>
 
 ## Tested on<br>
-- Linux<br>
-- Docker (container)<br>
-- Windows (with Python)<br>
+- 리눅스<br>
+- 도커 (시놀로지 컨테이너)<br>
+- 윈도우즈 (파이썬 환경)<br>
 
 ## Requirements<br>
 - Python >= 3.12<br>
@@ -29,18 +31,18 @@ Install dependencies with: pip install -r requirements.txt<br>
     waitress>=3.0.2,<4<br>
     tzdata>=2024.1<br>
 
-## Data source<br>
-Market data is fetched with [yfinance](https://github.com/ranaroussi/yfinance),<br>, an unofficial library that uses Yahoo Finance's publicly available data. Data fetching can be somewhat slow.<br>
-Since Yahoo Finance does not provide the KOSDAQ 150 index, Korean market data is built by fetching and updating each constituent stock individually.<br>
+## 데이터 소스<br>
+야후 파이낸스 ([yfinance](https://github.com/ranaroussi/yfinance),<br>), 비공식 연구용 야후 파이낸스 API 를 이용하므로, 상용 API만큼 빠른 정보를 제공하지 않습니다. 약 10분의 딜레이가 있으므로 실시간 트레이딩 용으로는 사용이 어렵습니다.<br>
+야후 파이낸스는 코스닥150의 지표는 제공하지 않으므로, 각 섹터 종목 정보를 받아서 갱신합니다. 종목 정보는 삼성자산운용등의 코스닥 150 ETF 투자 종목정보를 참조합니다.<br>
 
-## Configuration
-- Default settings are defined in the `.ini` file. Changes take effect after restarting the container or the Python process.<br>
-- HTML templates are read on every request, so edits are reflected immediately without a restart.<br>
+## 설정법
+- `.ini` 파일에서 세부적인 항목을 조정가능합니다. (갱신시간, 아이콘 표시 여부 등) - 수정 시 재시작이 필요합니다. <br>
+- HTML 은 실시간으로 저장소에서 읽기 때문에, 수정시 즉시 반영됩니다. <br>
 
-## Icon sets
-- **Default:** `stockfeel_assests/meme-moods-v2.png`<br>
-- **Frog set:** `frog-moods-v2.png` (not included)<br>
-The frog icon set was generated with GPT image and may be considered an homage to Matt Furie's Pepe the Frog. It is therefore **not distributed** with this repository. To use your own frog icons, place a file named `frog-moods-v2.png` in the icons folder and select it in the `.ini` file.<br>
+## 아이콘 세트
+- **기본:** `stockfeel_assests/meme-moods-v2.png`<br>
+- **개구리 아이콘:** `frog-moods-v2.png` (포함안됨)<br>
+  개구리 아이콘은 ChatGPT Image 기능으로 생성되었으나, Matt Furie 작가의 Pepe 의 오마쥬일 수 있어서, github를 통해 **공유되지 않습니다.**. 이미지 생성 서비스 등을 이용하여 개인 이미지를 생성한 경우 `frog-moods-v2.png` 로 이름을 변경하고 `.ini` 파일에서 설정을 바꾸면 적용이 가능합니다.<br>
 
-## Disclaimer<br>
-This project is for personal and educational use only and is **not financial advice**. It is not affiliated with or endorsed by Yahoo. Please review Yahoo's terms of use before using the data.
+## 법적 책임 한도<br>
+이 프로젝트는 개인의 연구용으로 제작/개발 되었습니다. **투자 제안을 하는 용도가 아니며**, 투자 용도로 수정/재배포 하는 경우에는 야후 파이낸스 정보의 사용 목적에 반할 수 있으므로, 사용자의 주의를 요합니다. 투자의 책임은 전적으로 투자자 개인에게 있으며, 이 프로젝트의 개발자는 투자 결과에 대해서는 책임지지 않습니다. 
