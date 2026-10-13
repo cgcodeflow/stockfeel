@@ -2,7 +2,7 @@
 
 초보자와 시간이 없는 개미투자자들을 위해, 차트를 볼 필요없이 시장과 각섹터의 단기(1주), 중기(3개월) 투자성과 그리고 변동성을 기준으로 분위기를 시각화 하여 보여주는 파이썬 웹서버 툴 입니다.
 <br>
-어떤 기능인지는 우측 사이트에서 먼저 체크해 볼 수 있습니다 : https://stockfeel.net
+어떤 기능인지는 우측 사이트에서 먼저 체크해 볼 수 있습니다 : https://stockfeel.net 
 
 <img width="1493" height="1143" alt="image" src="https://github.com/user-attachments/assets/fa976dd1-cbaa-45ec-8229-f31a67cbaf2b" />
 
@@ -19,6 +19,12 @@
 - 리눅스<br>
 - 도커 (시놀로지 컨테이너)<br>
 - 윈도우즈 (파이썬 환경)<br>
+
+## 포터블 버전
+- 파이인스톨러가 내장된 윈도우즈용 포터블 버전(구글드라이브, 약 40MB) : https://drive.google.com/file/d/1WzswG5HJEPl-hBm98XJyW8iGOoQ2rHvV/view?usp=drive_link
+- 압축을 풀고, stockfeel_portable.exe 를 실행하면 자동으로 웹서버가 뜨고, 127:0.0.1:55558 로 접속합니다. (접속이 되지 않으면 웹브라우저에서, 127:0.0.1:55558 로 접속하면 됩니다)
+- 초기 데이터를 전부 갱신하는데 약 3~5분 정도 소요될 수 있습니다
+- 포터블 버전은 자체적인 CA/SSL 인증을 요구하는 `회사/기업체 등의 내부망에서는 동작하지 않습니다.` 이것은 각 회사의 보안 정책이므로, 보안 담당자에게 문의하세요.
 
 ## Requirements<br>
 - Python >= 3.12<br>
