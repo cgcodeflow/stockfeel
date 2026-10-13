@@ -1,0 +1,3637 @@
+{
+  "groups": {
+    "sp500": [
+      {
+        "symbol": "MMM",
+        "name": "3M",
+        "sector": "산업재",
+        "industry": "Industrial Conglomerates"
+      },
+      {
+        "symbol": "AOS",
+        "name": "A. O. Smith",
+        "sector": "산업재",
+        "industry": "Building Products"
+      },
+      {
+        "symbol": "ABT",
+        "name": "Abbott Laboratories",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "ABBV",
+        "name": "AbbVie",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "ACN",
+        "name": "Accenture",
+        "sector": "기술",
+        "industry": "IT Consulting & Other Services"
+      },
+      {
+        "symbol": "ADBE",
+        "name": "Adobe Inc.",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "AES",
+        "name": "AES Corporation",
+        "sector": "유틸리티",
+        "industry": "Independent Power Producers & Energy Traders"
+      },
+      {
+        "symbol": "AFL",
+        "name": "Aflac",
+        "sector": "금융",
+        "industry": "Life & Health Insurance"
+      },
+      {
+        "symbol": "A",
+        "name": "Agilent Technologies",
+        "sector": "헬스케어",
+        "industry": "Life Sciences Tools & Services"
+      },
+      {
+        "symbol": "APD",
+        "name": "Air Products",
+        "sector": "소재",
+        "industry": "Industrial Gases"
+      },
+      {
+        "symbol": "ABNB",
+        "name": "Airbnb",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "AKAM",
+        "name": "Akamai Technologies",
+        "sector": "기술",
+        "industry": "Internet Services & Infrastructure"
+      },
+      {
+        "symbol": "ALB",
+        "name": "Albemarle Corporation",
+        "sector": "소재",
+        "industry": "Specialty Chemicals"
+      },
+      {
+        "symbol": "ARE",
+        "name": "Alexandria Real Estate Equities",
+        "sector": "부동산",
+        "industry": "Office REITs"
+      },
+      {
+        "symbol": "ALGN",
+        "name": "Align Technology",
+        "sector": "헬스케어",
+        "industry": "Health Care Supplies"
+      },
+      {
+        "symbol": "ALLE",
+        "name": "Allegion",
+        "sector": "산업재",
+        "industry": "Building Products"
+      },
+      {
+        "symbol": "LNT",
+        "name": "Alliant Energy",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "ALL",
+        "name": "Allstate",
+        "sector": "금융",
+        "industry": "Property & Casualty Insurance"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc. (Class A)",
+        "sector": "커뮤니케이션",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "symbol": "GOOG",
+        "name": "Alphabet Inc. (Class C)",
+        "sector": "커뮤니케이션",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "symbol": "MO",
+        "name": "Altria",
+        "sector": "필수소비재",
+        "industry": "Tobacco"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon",
+        "sector": "경기소비재",
+        "industry": "Broadline Retail"
+      },
+      {
+        "symbol": "AMCR",
+        "name": "Amcor",
+        "sector": "소재",
+        "industry": "Paper & Plastic Packaging Products & Materials"
+      },
+      {
+        "symbol": "AEE",
+        "name": "Ameren",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "AEP",
+        "name": "American Electric Power",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "AXP",
+        "name": "American Express",
+        "sector": "금융",
+        "industry": "Consumer Finance"
+      },
+      {
+        "symbol": "AIG",
+        "name": "American International Group",
+        "sector": "금융",
+        "industry": "Multi-line Insurance"
+      },
+      {
+        "symbol": "AMT",
+        "name": "American Tower",
+        "sector": "부동산",
+        "industry": "Telecom Tower REITs"
+      },
+      {
+        "symbol": "AWK",
+        "name": "American Water Works",
+        "sector": "유틸리티",
+        "industry": "Water Utilities"
+      },
+      {
+        "symbol": "AMP",
+        "name": "Ameriprise Financial",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "AME",
+        "name": "Ametek",
+        "sector": "산업재",
+        "industry": "Electrical Components & Equipment"
+      },
+      {
+        "symbol": "AMGN",
+        "name": "Amgen",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "APH",
+        "name": "Amphenol",
+        "sector": "기술",
+        "industry": "Electronic Components"
+      },
+      {
+        "symbol": "ADI",
+        "name": "Analog Devices",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "AON",
+        "name": "Aon plc",
+        "sector": "금융",
+        "industry": "Insurance Brokers"
+      },
+      {
+        "symbol": "APA",
+        "name": "APA Corporation",
+        "sector": "에너지",
+        "industry": "Oil & Gas Exploration & Production"
+      },
+      {
+        "symbol": "APO",
+        "name": "Apollo Global Management",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "AMAT",
+        "name": "Applied Materials",
+        "sector": "반도체",
+        "industry": "Semiconductor Materials & Equipment"
+      },
+      {
+        "symbol": "APP",
+        "name": "AppLovin",
+        "sector": "커뮤니케이션",
+        "industry": "Advertising"
+      },
+      {
+        "symbol": "APTV",
+        "name": "Aptiv",
+        "sector": "경기소비재",
+        "industry": "Automotive Parts & Equipment"
+      },
+      {
+        "symbol": "ACGL",
+        "name": "Arch Capital Group",
+        "sector": "금융",
+        "industry": "Property & Casualty Insurance"
+      },
+      {
+        "symbol": "ADM",
+        "name": "Archer Daniels Midland",
+        "sector": "필수소비재",
+        "industry": "Agricultural Products & Services"
+      },
+      {
+        "symbol": "ARES",
+        "name": "Ares Management",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "ANET",
+        "name": "Arista Networks",
+        "sector": "기술",
+        "industry": "Communications Equipment"
+      },
+      {
+        "symbol": "AJG",
+        "name": "Arthur J. Gallagher & Co.",
+        "sector": "금융",
+        "industry": "Insurance Brokers"
+      },
+      {
+        "symbol": "AIZ",
+        "name": "Assurant",
+        "sector": "금융",
+        "industry": "Multi-line Insurance"
+      },
+      {
+        "symbol": "T",
+        "name": "AT&T",
+        "sector": "커뮤니케이션",
+        "industry": "Integrated Telecommunication Services"
+      },
+      {
+        "symbol": "ATO",
+        "name": "Atmos Energy",
+        "sector": "유틸리티",
+        "industry": "Gas Utilities"
+      },
+      {
+        "symbol": "ADSK",
+        "name": "Autodesk",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "ADP",
+        "name": "Automatic Data Processing",
+        "sector": "산업재",
+        "industry": "Human Resource & Employment Services"
+      },
+      {
+        "symbol": "AZO",
+        "name": "AutoZone",
+        "sector": "경기소비재",
+        "industry": "Automotive Retail"
+      },
+      {
+        "symbol": "AVY",
+        "name": "Avery Dennison",
+        "sector": "소재",
+        "industry": "Paper & Plastic Packaging Products & Materials"
+      },
+      {
+        "symbol": "AXON",
+        "name": "Axon Enterprise",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "BKR",
+        "name": "Baker Hughes",
+        "sector": "에너지",
+        "industry": "Oil & Gas Equipment & Services"
+      },
+      {
+        "symbol": "BALL",
+        "name": "Ball Corporation",
+        "sector": "소재",
+        "industry": "Metal, Glass & Plastic Containers"
+      },
+      {
+        "symbol": "BAC",
+        "name": "Bank of America",
+        "sector": "금융",
+        "industry": "Diversified Banks"
+      },
+      {
+        "symbol": "BAX",
+        "name": "Baxter International",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "BDX",
+        "name": "Becton Dickinson",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "BRK-B",
+        "name": "Berkshire Hathaway",
+        "sector": "금융",
+        "industry": "Multi-Sector Holdings"
+      },
+      {
+        "symbol": "BBY",
+        "name": "Best Buy",
+        "sector": "경기소비재",
+        "industry": "Computer & Electronics Retail"
+      },
+      {
+        "symbol": "TECH",
+        "name": "Bio-Techne",
+        "sector": "헬스케어",
+        "industry": "Life Sciences Tools & Services"
+      },
+      {
+        "symbol": "BIIB",
+        "name": "Biogen",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "BLK",
+        "name": "BlackRock",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "BX",
+        "name": "Blackstone Inc.",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "XYZ",
+        "name": "Block, Inc.",
+        "sector": "금융",
+        "industry": "Transaction & Payment Processing Services"
+      },
+      {
+        "symbol": "BE",
+        "name": "Bloom Energy",
+        "sector": "산업재",
+        "industry": "Electrical Components & Equipment"
+      },
+      {
+        "symbol": "BNY",
+        "name": "BNY Mellon",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "BA",
+        "name": "Boeing",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "BKNG",
+        "name": "Booking Holdings",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "BSX",
+        "name": "Boston Scientific",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "BMY",
+        "name": "Bristol Myers Squibb",
+        "sector": "헬스케어",
+        "industry": "Pharmaceuticals"
+      },
+      {
+        "symbol": "AVGO",
+        "name": "Broadcom",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "BR",
+        "name": "Broadridge Financial Solutions",
+        "sector": "산업재",
+        "industry": "Data Processing & Outsourced Services"
+      },
+      {
+        "symbol": "BRO",
+        "name": "Brown & Brown",
+        "sector": "금융",
+        "industry": "Insurance Brokers"
+      },
+      {
+        "symbol": "BF-B",
+        "name": "Brown–Forman",
+        "sector": "필수소비재",
+        "industry": "Distillers & Vintners"
+      },
+      {
+        "symbol": "BG",
+        "name": "Bunge Global",
+        "sector": "필수소비재",
+        "industry": "Agricultural Products & Services"
+      },
+      {
+        "symbol": "BXP",
+        "name": "BXP, Inc.",
+        "sector": "부동산",
+        "industry": "Office REITs"
+      },
+      {
+        "symbol": "CHRW",
+        "name": "C.H. Robinson",
+        "sector": "산업재",
+        "industry": "Air Freight & Logistics"
+      },
+      {
+        "symbol": "CDNS",
+        "name": "Cadence Design Systems",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "CPT",
+        "name": "Camden Property Trust",
+        "sector": "부동산",
+        "industry": "Multi-Family Residential REITs"
+      },
+      {
+        "symbol": "COF",
+        "name": "Capital One",
+        "sector": "금융",
+        "industry": "Consumer Finance"
+      },
+      {
+        "symbol": "CAH",
+        "name": "Cardinal Health",
+        "sector": "헬스케어",
+        "industry": "Health Care Distributors"
+      },
+      {
+        "symbol": "CCL",
+        "name": "Carnival Corporation",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "CARR",
+        "name": "Carrier Global",
+        "sector": "산업재",
+        "industry": "Building Products"
+      },
+      {
+        "symbol": "CVNA",
+        "name": "Carvana",
+        "sector": "경기소비재",
+        "industry": "Automotive Retail"
+      },
+      {
+        "symbol": "CASY",
+        "name": "Casey's",
+        "sector": "필수소비재",
+        "industry": "Food Retail"
+      },
+      {
+        "symbol": "CAT",
+        "name": "Caterpillar Inc.",
+        "sector": "산업재",
+        "industry": "Construction Machinery & Heavy Transportation Equipment"
+      },
+      {
+        "symbol": "CBOE",
+        "name": "Cboe Global Markets",
+        "sector": "금융",
+        "industry": "Financial Exchanges & Data"
+      },
+      {
+        "symbol": "CBRE",
+        "name": "CBRE Group",
+        "sector": "부동산",
+        "industry": "Real Estate Services"
+      },
+      {
+        "symbol": "CDW",
+        "name": "CDW Corporation",
+        "sector": "기술",
+        "industry": "Technology Distributors"
+      },
+      {
+        "symbol": "COR",
+        "name": "Cencora",
+        "sector": "헬스케어",
+        "industry": "Health Care Distributors"
+      },
+      {
+        "symbol": "CNC",
+        "name": "Centene Corporation",
+        "sector": "헬스케어",
+        "industry": "Managed Health Care"
+      },
+      {
+        "symbol": "CNP",
+        "name": "CenterPoint Energy",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "CF",
+        "name": "CF Industries",
+        "sector": "소재",
+        "industry": "Fertilizers & Agricultural Chemicals"
+      },
+      {
+        "symbol": "CRL",
+        "name": "Charles River Laboratories",
+        "sector": "헬스케어",
+        "industry": "Life Sciences Tools & Services"
+      },
+      {
+        "symbol": "SCHW",
+        "name": "Charles Schwab Corporation",
+        "sector": "금융",
+        "industry": "Investment Banking & Brokerage"
+      },
+      {
+        "symbol": "CHTR",
+        "name": "Charter Communications",
+        "sector": "커뮤니케이션",
+        "industry": "Cable & Satellite"
+      },
+      {
+        "symbol": "CVX",
+        "name": "Chevron Corporation",
+        "sector": "에너지",
+        "industry": "Integrated Oil & Gas"
+      },
+      {
+        "symbol": "CMG",
+        "name": "Chipotle Mexican Grill",
+        "sector": "경기소비재",
+        "industry": "Restaurants"
+      },
+      {
+        "symbol": "CB",
+        "name": "Chubb Limited",
+        "sector": "금융",
+        "industry": "Property & Casualty Insurance"
+      },
+      {
+        "symbol": "CHD",
+        "name": "Church & Dwight",
+        "sector": "필수소비재",
+        "industry": "Household Products"
+      },
+      {
+        "symbol": "CIEN",
+        "name": "Ciena",
+        "sector": "기술",
+        "industry": "Communications Equipment"
+      },
+      {
+        "symbol": "CI",
+        "name": "Cigna",
+        "sector": "헬스케어",
+        "industry": "Health Care Services"
+      },
+      {
+        "symbol": "CINF",
+        "name": "Cincinnati Financial",
+        "sector": "금융",
+        "industry": "Property & Casualty Insurance"
+      },
+      {
+        "symbol": "CTAS",
+        "name": "Cintas",
+        "sector": "산업재",
+        "industry": "Diversified Support Services"
+      },
+      {
+        "symbol": "CSCO",
+        "name": "Cisco",
+        "sector": "기술",
+        "industry": "Communications Equipment"
+      },
+      {
+        "symbol": "C",
+        "name": "Citigroup",
+        "sector": "금융",
+        "industry": "Diversified Banks"
+      },
+      {
+        "symbol": "CFG",
+        "name": "Citizens Financial Group",
+        "sector": "금융",
+        "industry": "Regional Banks"
+      },
+      {
+        "symbol": "CLX",
+        "name": "Clorox",
+        "sector": "필수소비재",
+        "industry": "Household Products"
+      },
+      {
+        "symbol": "CME",
+        "name": "CME Group",
+        "sector": "금융",
+        "industry": "Financial Exchanges & Data"
+      },
+      {
+        "symbol": "CMS",
+        "name": "CMS Energy",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "KO",
+        "name": "Coca-Cola Company (The)",
+        "sector": "필수소비재",
+        "industry": "Soft Drinks & Non-alcoholic Beverages"
+      },
+      {
+        "symbol": "CTSH",
+        "name": "Cognizant",
+        "sector": "기술",
+        "industry": "IT Consulting & Other Services"
+      },
+      {
+        "symbol": "COHR",
+        "name": "Coherent Corp.",
+        "sector": "기술",
+        "industry": "Electronic Components"
+      },
+      {
+        "symbol": "COIN",
+        "name": "Coinbase",
+        "sector": "금융",
+        "industry": "Financial Exchanges & Data"
+      },
+      {
+        "symbol": "CL",
+        "name": "Colgate-Palmolive",
+        "sector": "필수소비재",
+        "industry": "Household Products"
+      },
+      {
+        "symbol": "CMCSA",
+        "name": "Comcast",
+        "sector": "커뮤니케이션",
+        "industry": "Cable & Satellite"
+      },
+      {
+        "symbol": "FIX",
+        "name": "Comfort Systems USA",
+        "sector": "산업재",
+        "industry": "Construction & Engineering"
+      },
+      {
+        "symbol": "COP",
+        "name": "ConocoPhillips",
+        "sector": "에너지",
+        "industry": "Oil & Gas Exploration & Production"
+      },
+      {
+        "symbol": "ED",
+        "name": "Consolidated Edison",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "STZ",
+        "name": "Constellation Brands",
+        "sector": "필수소비재",
+        "industry": "Distillers & Vintners"
+      },
+      {
+        "symbol": "CEG",
+        "name": "Constellation Energy",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "COO",
+        "name": "Cooper Companies (The)",
+        "sector": "헬스케어",
+        "industry": "Health Care Supplies"
+      },
+      {
+        "symbol": "CPRT",
+        "name": "Copart",
+        "sector": "산업재",
+        "industry": "Diversified Support Services"
+      },
+      {
+        "symbol": "GLW",
+        "name": "Corning Inc.",
+        "sector": "기술",
+        "industry": "Electronic Components"
+      },
+      {
+        "symbol": "CPAY",
+        "name": "Corpay",
+        "sector": "금융",
+        "industry": "Transaction & Payment Processing Services"
+      },
+      {
+        "symbol": "CSGP",
+        "name": "CoStar Group",
+        "sector": "부동산",
+        "industry": "Real Estate Services"
+      },
+      {
+        "symbol": "COST",
+        "name": "Costco",
+        "sector": "필수소비재",
+        "industry": "Consumer Staples Merchandise Retail"
+      },
+      {
+        "symbol": "CRH",
+        "name": "CRH plc",
+        "sector": "소재",
+        "industry": "Construction Materials"
+      },
+      {
+        "symbol": "CRWD",
+        "name": "CrowdStrike",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "CCI",
+        "name": "Crown Castle",
+        "sector": "부동산",
+        "industry": "Telecom Tower REITs"
+      },
+      {
+        "symbol": "CSX",
+        "name": "CSX Corporation",
+        "sector": "산업재",
+        "industry": "Rail Transportation"
+      },
+      {
+        "symbol": "CMI",
+        "name": "Cummins",
+        "sector": "산업재",
+        "industry": "Construction Machinery & Heavy Transportation Equipment"
+      },
+      {
+        "symbol": "CVS",
+        "name": "CVS Health",
+        "sector": "헬스케어",
+        "industry": "Health Care Services"
+      },
+      {
+        "symbol": "DHR",
+        "name": "Danaher Corporation",
+        "sector": "헬스케어",
+        "industry": "Life Sciences Tools & Services"
+      },
+      {
+        "symbol": "DRI",
+        "name": "Darden Restaurants",
+        "sector": "경기소비재",
+        "industry": "Restaurants"
+      },
+      {
+        "symbol": "DDOG",
+        "name": "Datadog",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "DVA",
+        "name": "DaVita",
+        "sector": "헬스케어",
+        "industry": "Health Care Services"
+      },
+      {
+        "symbol": "DECK",
+        "name": "Deckers Brands",
+        "sector": "경기소비재",
+        "industry": "Footwear"
+      },
+      {
+        "symbol": "DE",
+        "name": "Deere & Company",
+        "sector": "산업재",
+        "industry": "Agricultural & Farm Machinery"
+      },
+      {
+        "symbol": "DELL",
+        "name": "Dell Technologies",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "DAL",
+        "name": "Delta Air Lines",
+        "sector": "산업재",
+        "industry": "Passenger Airlines"
+      },
+      {
+        "symbol": "DVN",
+        "name": "Devon Energy",
+        "sector": "에너지",
+        "industry": "Oil & Gas Exploration & Production"
+      },
+      {
+        "symbol": "DXCM",
+        "name": "Dexcom",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "FANG",
+        "name": "Diamondback Energy",
+        "sector": "에너지",
+        "industry": "Oil & Gas Exploration & Production"
+      },
+      {
+        "symbol": "DLR",
+        "name": "Digital Realty",
+        "sector": "부동산",
+        "industry": "Data Center REITs"
+      },
+      {
+        "symbol": "DG",
+        "name": "Dollar General",
+        "sector": "필수소비재",
+        "industry": "Consumer Staples Merchandise Retail"
+      },
+      {
+        "symbol": "DLTR",
+        "name": "Dollar Tree",
+        "sector": "필수소비재",
+        "industry": "Consumer Staples Merchandise Retail"
+      },
+      {
+        "symbol": "D",
+        "name": "Dominion Energy",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "DPZ",
+        "name": "Domino's",
+        "sector": "경기소비재",
+        "industry": "Restaurants"
+      },
+      {
+        "symbol": "DASH",
+        "name": "DoorDash",
+        "sector": "경기소비재",
+        "industry": "Specialized Consumer Services"
+      },
+      {
+        "symbol": "DOV",
+        "name": "Dover Corporation",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "DOW",
+        "name": "Dow Inc.",
+        "sector": "소재",
+        "industry": "Commodity Chemicals"
+      },
+      {
+        "symbol": "DHI",
+        "name": "D. R. Horton",
+        "sector": "경기소비재",
+        "industry": "Homebuilding"
+      },
+      {
+        "symbol": "DTE",
+        "name": "DTE Energy",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "DUK",
+        "name": "Duke Energy",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "DD",
+        "name": "DuPont",
+        "sector": "산업재",
+        "industry": "Industrial Conglomerates"
+      },
+      {
+        "symbol": "ETN",
+        "name": "Eaton Corporation",
+        "sector": "산업재",
+        "industry": "Electrical Components & Equipment"
+      },
+      {
+        "symbol": "EBAY",
+        "name": "eBay Inc.",
+        "sector": "경기소비재",
+        "industry": "Broadline Retail"
+      },
+      {
+        "symbol": "ECHO",
+        "name": "EchoStar",
+        "sector": "커뮤니케이션",
+        "industry": "Wireless Telecommunication Services"
+      },
+      {
+        "symbol": "ECL",
+        "name": "Ecolab",
+        "sector": "소재",
+        "industry": "Specialty Chemicals"
+      },
+      {
+        "symbol": "EIX",
+        "name": "Edison International",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "EW",
+        "name": "Edwards Lifesciences",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "ELV",
+        "name": "Elevance Health",
+        "sector": "헬스케어",
+        "industry": "Managed Health Care"
+      },
+      {
+        "symbol": "EME",
+        "name": "Emcor",
+        "sector": "산업재",
+        "industry": "Construction & Engineering"
+      },
+      {
+        "symbol": "EMR",
+        "name": "Emerson Electric",
+        "sector": "산업재",
+        "industry": "Electrical Components & Equipment"
+      },
+      {
+        "symbol": "ETR",
+        "name": "Entergy",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "EOG",
+        "name": "EOG Resources",
+        "sector": "에너지",
+        "industry": "Oil & Gas Exploration & Production"
+      },
+      {
+        "symbol": "EQT",
+        "name": "EQT Corporation",
+        "sector": "에너지",
+        "industry": "Oil & Gas Exploration & Production"
+      },
+      {
+        "symbol": "EFX",
+        "name": "Equifax",
+        "sector": "산업재",
+        "industry": "Research & Consulting Services"
+      },
+      {
+        "symbol": "EQIX",
+        "name": "Equinix",
+        "sector": "부동산",
+        "industry": "Data Center REITs"
+      },
+      {
+        "symbol": "ERIE",
+        "name": "Erie Indemnity",
+        "sector": "금융",
+        "industry": "Insurance Brokers"
+      },
+      {
+        "symbol": "ESS",
+        "name": "Essex Property Trust",
+        "sector": "부동산",
+        "industry": "Multi-Family Residential REITs"
+      },
+      {
+        "symbol": "EL",
+        "name": "Estée Lauder Companies (The)",
+        "sector": "필수소비재",
+        "industry": "Personal Care Products"
+      },
+      {
+        "symbol": "EG",
+        "name": "Everest Group",
+        "sector": "금융",
+        "industry": "Reinsurance"
+      },
+      {
+        "symbol": "EVRG",
+        "name": "Evergy",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "P",
+        "name": "Everpure",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "ES",
+        "name": "Eversource Energy",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "EXC",
+        "name": "Exelon",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "EXE",
+        "name": "Expand Energy",
+        "sector": "에너지",
+        "industry": "Oil & Gas Exploration & Production"
+      },
+      {
+        "symbol": "EXPE",
+        "name": "Expedia Group",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "EXPD",
+        "name": "Expeditors International",
+        "sector": "산업재",
+        "industry": "Air Freight & Logistics"
+      },
+      {
+        "symbol": "EXR",
+        "name": "Extra Space Storage",
+        "sector": "부동산",
+        "industry": "Self-Storage REITs"
+      },
+      {
+        "symbol": "XOM",
+        "name": "ExxonMobil",
+        "sector": "에너지",
+        "industry": "Integrated Oil & Gas"
+      },
+      {
+        "symbol": "FFIV",
+        "name": "F5, Inc.",
+        "sector": "기술",
+        "industry": "Communications Equipment"
+      },
+      {
+        "symbol": "FDS",
+        "name": "FactSet",
+        "sector": "금융",
+        "industry": "Financial Exchanges & Data"
+      },
+      {
+        "symbol": "FICO",
+        "name": "Fair Isaac",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "FAST",
+        "name": "Fastenal",
+        "sector": "산업재",
+        "industry": "Trading Companies & Distributors"
+      },
+      {
+        "symbol": "FRT",
+        "name": "Federal Realty Investment Trust",
+        "sector": "부동산",
+        "industry": "Retail REITs"
+      },
+      {
+        "symbol": "FDX",
+        "name": "FedEx",
+        "sector": "산업재",
+        "industry": "Air Freight & Logistics"
+      },
+      {
+        "symbol": "FDXF",
+        "name": "FedEx Freight",
+        "sector": "산업재",
+        "industry": "Cargo Ground Transportation"
+      },
+      {
+        "symbol": "FERG",
+        "name": "Ferguson Enterprises",
+        "sector": "산업재",
+        "industry": "Trading Companies & Distributors"
+      },
+      {
+        "symbol": "FIS",
+        "name": "Fidelity National Information Services",
+        "sector": "금융",
+        "industry": "Transaction & Payment Processing Services"
+      },
+      {
+        "symbol": "FITB",
+        "name": "Fifth Third Bancorp",
+        "sector": "금융",
+        "industry": "Regional Banks"
+      },
+      {
+        "symbol": "FSLR",
+        "name": "First Solar",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "FE",
+        "name": "FirstEnergy",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "FISV",
+        "name": "Fiserv",
+        "sector": "금융",
+        "industry": "Transaction & Payment Processing Services"
+      },
+      {
+        "symbol": "FLEX",
+        "name": "Flex Ltd.",
+        "sector": "기술",
+        "industry": "Electronic Manufacturing Services"
+      },
+      {
+        "symbol": "F",
+        "name": "Ford Motor Company",
+        "sector": "경기소비재",
+        "industry": "Automobile Manufacturers"
+      },
+      {
+        "symbol": "FTNT",
+        "name": "Fortinet",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "FTV",
+        "name": "Fortive",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "FOXA",
+        "name": "Fox Corporation (Class A)",
+        "sector": "커뮤니케이션",
+        "industry": "Broadcasting"
+      },
+      {
+        "symbol": "FOX",
+        "name": "Fox Corporation (Class B)",
+        "sector": "커뮤니케이션",
+        "industry": "Broadcasting"
+      },
+      {
+        "symbol": "BEN",
+        "name": "Franklin Resources",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "FCX",
+        "name": "Freeport-McMoRan",
+        "sector": "소재",
+        "industry": "Copper"
+      },
+      {
+        "symbol": "GRMN",
+        "name": "Garmin",
+        "sector": "경기소비재",
+        "industry": "Consumer Electronics"
+      },
+      {
+        "symbol": "IT",
+        "name": "Gartner",
+        "sector": "기술",
+        "industry": "IT Consulting & Other Services"
+      },
+      {
+        "symbol": "GE",
+        "name": "GE Aerospace",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "GEHC",
+        "name": "GE HealthCare",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "GEV",
+        "name": "GE Vernova",
+        "sector": "산업재",
+        "industry": "Heavy Electrical Equipment"
+      },
+      {
+        "symbol": "GEN",
+        "name": "Gen Digital",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "GNRC",
+        "name": "Generac",
+        "sector": "산업재",
+        "industry": "Heavy Electrical Equipment"
+      },
+      {
+        "symbol": "GD",
+        "name": "General Dynamics",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "GIS",
+        "name": "General Mills",
+        "sector": "필수소비재",
+        "industry": "Packaged Foods & Meats"
+      },
+      {
+        "symbol": "GM",
+        "name": "General Motors",
+        "sector": "경기소비재",
+        "industry": "Automobile Manufacturers"
+      },
+      {
+        "symbol": "GPC",
+        "name": "Genuine Parts Company",
+        "sector": "경기소비재",
+        "industry": "Distributors"
+      },
+      {
+        "symbol": "GILD",
+        "name": "Gilead Sciences",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "GPN",
+        "name": "Global Payments",
+        "sector": "금융",
+        "industry": "Transaction & Payment Processing Services"
+      },
+      {
+        "symbol": "GL",
+        "name": "Globe Life",
+        "sector": "금융",
+        "industry": "Life & Health Insurance"
+      },
+      {
+        "symbol": "GDDY",
+        "name": "GoDaddy",
+        "sector": "기술",
+        "industry": "Internet Services & Infrastructure"
+      },
+      {
+        "symbol": "GS",
+        "name": "Goldman Sachs",
+        "sector": "금융",
+        "industry": "Investment Banking & Brokerage"
+      },
+      {
+        "symbol": "HAL",
+        "name": "Halliburton",
+        "sector": "에너지",
+        "industry": "Oil & Gas Equipment & Services"
+      },
+      {
+        "symbol": "HIG",
+        "name": "Hartford (The)",
+        "sector": "금융",
+        "industry": "Property & Casualty Insurance"
+      },
+      {
+        "symbol": "HAS",
+        "name": "Hasbro",
+        "sector": "경기소비재",
+        "industry": "Leisure Products"
+      },
+      {
+        "symbol": "HCA",
+        "name": "HCA Healthcare",
+        "sector": "헬스케어",
+        "industry": "Health Care Facilities"
+      },
+      {
+        "symbol": "DOC",
+        "name": "Healthpeak Properties",
+        "sector": "부동산",
+        "industry": "Health Care REITs"
+      },
+      {
+        "symbol": "HSIC",
+        "name": "Henry Schein",
+        "sector": "헬스케어",
+        "industry": "Health Care Distributors"
+      },
+      {
+        "symbol": "HSY",
+        "name": "Hershey Company (The)",
+        "sector": "필수소비재",
+        "industry": "Packaged Foods & Meats"
+      },
+      {
+        "symbol": "HPE",
+        "name": "Hewlett Packard Enterprise",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "HLT",
+        "name": "Hilton Worldwide",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "HD",
+        "name": "Home Depot (The)",
+        "sector": "경기소비재",
+        "industry": "Home Improvement Retail"
+      },
+      {
+        "symbol": "HONA",
+        "name": "Honeywell Aerospace",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "HON",
+        "name": "Honeywell Technologies",
+        "sector": "산업재",
+        "industry": "Industrial Conglomerates"
+      },
+      {
+        "symbol": "HRL",
+        "name": "Hormel Foods",
+        "sector": "필수소비재",
+        "industry": "Packaged Foods & Meats"
+      },
+      {
+        "symbol": "HST",
+        "name": "Host Hotels & Resorts",
+        "sector": "부동산",
+        "industry": "Hotel & Resort REITs"
+      },
+      {
+        "symbol": "HWM",
+        "name": "Howmet Aerospace",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "HPQ",
+        "name": "HP Inc.",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "HUBB",
+        "name": "Hubbell Incorporated",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "HUM",
+        "name": "Humana",
+        "sector": "헬스케어",
+        "industry": "Managed Health Care"
+      },
+      {
+        "symbol": "HBAN",
+        "name": "Huntington Bancshares",
+        "sector": "금융",
+        "industry": "Regional Banks"
+      },
+      {
+        "symbol": "HII",
+        "name": "Huntington Ingalls Industries",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "IBM",
+        "name": "IBM",
+        "sector": "기술",
+        "industry": "IT Consulting & Other Services"
+      },
+      {
+        "symbol": "IEX",
+        "name": "IDEX Corporation",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "IDXX",
+        "name": "Idexx Laboratories",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "ITW",
+        "name": "Illinois Tool Works",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "ILMN",
+        "name": "Illumina, Inc.",
+        "sector": "헬스케어",
+        "industry": "Life Sciences Tools & Services"
+      },
+      {
+        "symbol": "INCY",
+        "name": "Incyte",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "IR",
+        "name": "Ingersoll Rand",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "PODD",
+        "name": "Insulet Corporation",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "INTC",
+        "name": "Intel",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "IBKR",
+        "name": "Interactive Brokers",
+        "sector": "금융",
+        "industry": "Investment Banking & Brokerage"
+      },
+      {
+        "symbol": "ICE",
+        "name": "Intercontinental Exchange",
+        "sector": "금융",
+        "industry": "Financial Exchanges & Data"
+      },
+      {
+        "symbol": "IFF",
+        "name": "International Flavors & Fragrances",
+        "sector": "소재",
+        "industry": "Specialty Chemicals"
+      },
+      {
+        "symbol": "IP",
+        "name": "International Paper",
+        "sector": "소재",
+        "industry": "Paper & Plastic Packaging Products & Materials"
+      },
+      {
+        "symbol": "INTU",
+        "name": "Intuit",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "ISRG",
+        "name": "Intuitive Surgical",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "IVZ",
+        "name": "Invesco",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "INVH",
+        "name": "Invitation Homes",
+        "sector": "부동산",
+        "industry": "Single-Family Residential REITs"
+      },
+      {
+        "symbol": "IQV",
+        "name": "IQVIA",
+        "sector": "헬스케어",
+        "industry": "Life Sciences Tools & Services"
+      },
+      {
+        "symbol": "IRM",
+        "name": "Iron Mountain",
+        "sector": "부동산",
+        "industry": "Other Specialized REITs"
+      },
+      {
+        "symbol": "JBHT",
+        "name": "J.B. Hunt",
+        "sector": "산업재",
+        "industry": "Cargo Ground Transportation"
+      },
+      {
+        "symbol": "JBL",
+        "name": "Jabil",
+        "sector": "기술",
+        "industry": "Electronic Manufacturing Services"
+      },
+      {
+        "symbol": "JKHY",
+        "name": "Jack Henry & Associates",
+        "sector": "금융",
+        "industry": "Transaction & Payment Processing Services"
+      },
+      {
+        "symbol": "J",
+        "name": "Jacobs Solutions",
+        "sector": "산업재",
+        "industry": "Construction & Engineering"
+      },
+      {
+        "symbol": "JNJ",
+        "name": "Johnson & Johnson",
+        "sector": "헬스케어",
+        "industry": "Pharmaceuticals"
+      },
+      {
+        "symbol": "JCI",
+        "name": "Johnson Controls",
+        "sector": "산업재",
+        "industry": "Building Products"
+      },
+      {
+        "symbol": "JPM",
+        "name": "JPMorgan Chase",
+        "sector": "금융",
+        "industry": "Diversified Banks"
+      },
+      {
+        "symbol": "KVUE",
+        "name": "Kenvue",
+        "sector": "필수소비재",
+        "industry": "Personal Care Products"
+      },
+      {
+        "symbol": "KDP",
+        "name": "Keurig Dr Pepper",
+        "sector": "필수소비재",
+        "industry": "Soft Drinks & Non-alcoholic Beverages"
+      },
+      {
+        "symbol": "KEY",
+        "name": "KeyCorp",
+        "sector": "금융",
+        "industry": "Regional Banks"
+      },
+      {
+        "symbol": "KEYS",
+        "name": "Keysight Technologies",
+        "sector": "기술",
+        "industry": "Electronic Equipment & Instruments"
+      },
+      {
+        "symbol": "KMB",
+        "name": "Kimberly-Clark",
+        "sector": "필수소비재",
+        "industry": "Household Products"
+      },
+      {
+        "symbol": "KIM",
+        "name": "Kimco Realty",
+        "sector": "부동산",
+        "industry": "Retail REITs"
+      },
+      {
+        "symbol": "KMI",
+        "name": "Kinder Morgan",
+        "sector": "에너지",
+        "industry": "Oil & Gas Storage & Transportation"
+      },
+      {
+        "symbol": "KKR",
+        "name": "KKR & Co.",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "KLAC",
+        "name": "KLA Corporation",
+        "sector": "반도체",
+        "industry": "Semiconductor Materials & Equipment"
+      },
+      {
+        "symbol": "KHC",
+        "name": "Kraft Heinz",
+        "sector": "필수소비재",
+        "industry": "Packaged Foods & Meats"
+      },
+      {
+        "symbol": "KR",
+        "name": "Kroger",
+        "sector": "필수소비재",
+        "industry": "Food Retail"
+      },
+      {
+        "symbol": "LHX",
+        "name": "L3Harris",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "LH",
+        "name": "Labcorp",
+        "sector": "헬스케어",
+        "industry": "Health Care Services"
+      },
+      {
+        "symbol": "LRCX",
+        "name": "Lam Research",
+        "sector": "반도체",
+        "industry": "Semiconductor Materials & Equipment"
+      },
+      {
+        "symbol": "LVS",
+        "name": "Las Vegas Sands",
+        "sector": "경기소비재",
+        "industry": "Casinos & Gaming"
+      },
+      {
+        "symbol": "LDOS",
+        "name": "Leidos",
+        "sector": "산업재",
+        "industry": "Diversified Support Services"
+      },
+      {
+        "symbol": "LEN",
+        "name": "Lennar",
+        "sector": "경기소비재",
+        "industry": "Homebuilding"
+      },
+      {
+        "symbol": "LII",
+        "name": "Lennox International",
+        "sector": "산업재",
+        "industry": "Building Products"
+      },
+      {
+        "symbol": "LLY",
+        "name": "Lilly (Eli)",
+        "sector": "헬스케어",
+        "industry": "Pharmaceuticals"
+      },
+      {
+        "symbol": "LIN",
+        "name": "Linde plc",
+        "sector": "소재",
+        "industry": "Industrial Gases"
+      },
+      {
+        "symbol": "LYV",
+        "name": "Live Nation Entertainment",
+        "sector": "커뮤니케이션",
+        "industry": "Movies & Entertainment"
+      },
+      {
+        "symbol": "LMT",
+        "name": "Lockheed Martin",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "L",
+        "name": "Loews Corporation",
+        "sector": "금융",
+        "industry": "Multi-line Insurance"
+      },
+      {
+        "symbol": "LOW",
+        "name": "Lowe's",
+        "sector": "경기소비재",
+        "industry": "Home Improvement Retail"
+      },
+      {
+        "symbol": "LULU",
+        "name": "Lululemon Athletica",
+        "sector": "경기소비재",
+        "industry": "Apparel, Accessories & Luxury Goods"
+      },
+      {
+        "symbol": "LITE",
+        "name": "Lumentum",
+        "sector": "기술",
+        "industry": "Communications Equipment"
+      },
+      {
+        "symbol": "LYB",
+        "name": "LyondellBasell",
+        "sector": "소재",
+        "industry": "Specialty Chemicals"
+      },
+      {
+        "symbol": "MTB",
+        "name": "M&T Bank",
+        "sector": "금융",
+        "industry": "Regional Banks"
+      },
+      {
+        "symbol": "MPC",
+        "name": "Marathon Petroleum",
+        "sector": "에너지",
+        "industry": "Oil & Gas Refining & Marketing"
+      },
+      {
+        "symbol": "MAR",
+        "name": "Marriott International",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "MRSH",
+        "name": "Marsh McLennan",
+        "sector": "금융",
+        "industry": "Insurance Brokers"
+      },
+      {
+        "symbol": "MLM",
+        "name": "Martin Marietta Materials",
+        "sector": "소재",
+        "industry": "Construction Materials"
+      },
+      {
+        "symbol": "MRVL",
+        "name": "Marvell Technology",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "MAS",
+        "name": "Masco",
+        "sector": "산업재",
+        "industry": "Building Products"
+      },
+      {
+        "symbol": "MA",
+        "name": "Mastercard",
+        "sector": "금융",
+        "industry": "Transaction & Payment Processing Services"
+      },
+      {
+        "symbol": "MKC",
+        "name": "McCormick & Company",
+        "sector": "필수소비재",
+        "industry": "Packaged Foods & Meats"
+      },
+      {
+        "symbol": "MCD",
+        "name": "McDonald's",
+        "sector": "경기소비재",
+        "industry": "Restaurants"
+      },
+      {
+        "symbol": "MCK",
+        "name": "McKesson Corporation",
+        "sector": "헬스케어",
+        "industry": "Health Care Distributors"
+      },
+      {
+        "symbol": "MDT",
+        "name": "Medtronic",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "MRK",
+        "name": "Merck & Co.",
+        "sector": "헬스케어",
+        "industry": "Pharmaceuticals"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta Platforms",
+        "sector": "커뮤니케이션",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "symbol": "MET",
+        "name": "MetLife",
+        "sector": "금융",
+        "industry": "Life & Health Insurance"
+      },
+      {
+        "symbol": "MTD",
+        "name": "Mettler Toledo",
+        "sector": "헬스케어",
+        "industry": "Life Sciences Tools & Services"
+      },
+      {
+        "symbol": "MGM",
+        "name": "MGM Resorts",
+        "sector": "경기소비재",
+        "industry": "Casinos & Gaming"
+      },
+      {
+        "symbol": "MCHP",
+        "name": "Microchip Technology",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron Technology",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "MAA",
+        "name": "Mid-America Apartment Communities",
+        "sector": "부동산",
+        "industry": "Multi-Family Residential REITs"
+      },
+      {
+        "symbol": "MRNA",
+        "name": "Moderna",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "MDLZ",
+        "name": "Mondelez International",
+        "sector": "필수소비재",
+        "industry": "Packaged Foods & Meats"
+      },
+      {
+        "symbol": "MPWR",
+        "name": "Monolithic Power Systems",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "MNST",
+        "name": "Monster Beverage",
+        "sector": "필수소비재",
+        "industry": "Soft Drinks & Non-alcoholic Beverages"
+      },
+      {
+        "symbol": "MCO",
+        "name": "Moody's Corporation",
+        "sector": "금융",
+        "industry": "Financial Exchanges & Data"
+      },
+      {
+        "symbol": "MS",
+        "name": "Morgan Stanley",
+        "sector": "금융",
+        "industry": "Investment Banking & Brokerage"
+      },
+      {
+        "symbol": "MOS",
+        "name": "Mosaic Company (The)",
+        "sector": "소재",
+        "industry": "Fertilizers & Agricultural Chemicals"
+      },
+      {
+        "symbol": "MSI",
+        "name": "Motorola Solutions",
+        "sector": "기술",
+        "industry": "Communications Equipment"
+      },
+      {
+        "symbol": "MSCI",
+        "name": "MSCI",
+        "sector": "금융",
+        "industry": "Financial Exchanges & Data"
+      },
+      {
+        "symbol": "NDAQ",
+        "name": "Nasdaq, Inc.",
+        "sector": "금융",
+        "industry": "Financial Exchanges & Data"
+      },
+      {
+        "symbol": "NTAP",
+        "name": "NetApp",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "NFLX",
+        "name": "Netflix",
+        "sector": "커뮤니케이션",
+        "industry": "Movies & Entertainment"
+      },
+      {
+        "symbol": "NEM",
+        "name": "Newmont",
+        "sector": "소재",
+        "industry": "Gold"
+      },
+      {
+        "symbol": "NWSA",
+        "name": "News Corp (Class A)",
+        "sector": "커뮤니케이션",
+        "industry": "Publishing"
+      },
+      {
+        "symbol": "NWS",
+        "name": "News Corp (Class B)",
+        "sector": "커뮤니케이션",
+        "industry": "Publishing"
+      },
+      {
+        "symbol": "NEE",
+        "name": "NextEra Energy",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "NKE",
+        "name": "Nike, Inc.",
+        "sector": "경기소비재",
+        "industry": "Apparel, Accessories & Luxury Goods"
+      },
+      {
+        "symbol": "NI",
+        "name": "NiSource",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "NDSN",
+        "name": "Nordson Corporation",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "NSC",
+        "name": "Norfolk Southern",
+        "sector": "산업재",
+        "industry": "Rail Transportation"
+      },
+      {
+        "symbol": "NTRS",
+        "name": "Northern Trust",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "NOC",
+        "name": "Northrop Grumman",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "NCLH",
+        "name": "Norwegian Cruise Line Holdings",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "NRG",
+        "name": "NRG Energy",
+        "sector": "유틸리티",
+        "industry": "Independent Power Producers & Energy Traders"
+      },
+      {
+        "symbol": "NUE",
+        "name": "Nucor",
+        "sector": "소재",
+        "industry": "Steel"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "NVR",
+        "name": "NVR, Inc.",
+        "sector": "경기소비재",
+        "industry": "Homebuilding"
+      },
+      {
+        "symbol": "NXPI",
+        "name": "NXP Semiconductors",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "ORLY",
+        "name": "O'Reilly Automotive",
+        "sector": "경기소비재",
+        "industry": "Automotive Retail"
+      },
+      {
+        "symbol": "OXY",
+        "name": "Occidental Petroleum",
+        "sector": "에너지",
+        "industry": "Oil & Gas Exploration & Production"
+      },
+      {
+        "symbol": "ODFL",
+        "name": "Old Dominion",
+        "sector": "산업재",
+        "industry": "Cargo Ground Transportation"
+      },
+      {
+        "symbol": "OMC",
+        "name": "Omnicom Group",
+        "sector": "커뮤니케이션",
+        "industry": "Advertising"
+      },
+      {
+        "symbol": "ON",
+        "name": "ON Semiconductor",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "OKE",
+        "name": "Oneok",
+        "sector": "에너지",
+        "industry": "Oil & Gas Storage & Transportation"
+      },
+      {
+        "symbol": "ORCL",
+        "name": "Oracle Corporation",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "OTIS",
+        "name": "Otis Worldwide",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "PCAR",
+        "name": "Paccar",
+        "sector": "산업재",
+        "industry": "Construction Machinery & Heavy Transportation Equipment"
+      },
+      {
+        "symbol": "PKG",
+        "name": "Packaging Corporation of America",
+        "sector": "소재",
+        "industry": "Paper & Plastic Packaging Products & Materials"
+      },
+      {
+        "symbol": "PLTR",
+        "name": "Palantir Technologies",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "PANW",
+        "name": "Palo Alto Networks",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "PH",
+        "name": "Parker Hannifin",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "PAYX",
+        "name": "Paychex",
+        "sector": "산업재",
+        "industry": "Human Resource & Employment Services"
+      },
+      {
+        "symbol": "PYPL",
+        "name": "PayPal",
+        "sector": "금융",
+        "industry": "Transaction & Payment Processing Services"
+      },
+      {
+        "symbol": "PNR",
+        "name": "Pentair",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "PEP",
+        "name": "PepsiCo",
+        "sector": "필수소비재",
+        "industry": "Soft Drinks & Non-alcoholic Beverages"
+      },
+      {
+        "symbol": "PFE",
+        "name": "Pfizer",
+        "sector": "헬스케어",
+        "industry": "Pharmaceuticals"
+      },
+      {
+        "symbol": "PCG",
+        "name": "PG&E Corporation",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "PM",
+        "name": "Philip Morris International",
+        "sector": "필수소비재",
+        "industry": "Tobacco"
+      },
+      {
+        "symbol": "PSX",
+        "name": "Phillips 66",
+        "sector": "에너지",
+        "industry": "Oil & Gas Refining & Marketing"
+      },
+      {
+        "symbol": "PNW",
+        "name": "Pinnacle West Capital",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "PNC",
+        "name": "PNC Financial Services",
+        "sector": "금융",
+        "industry": "Diversified Banks"
+      },
+      {
+        "symbol": "PPG",
+        "name": "PPG Industries",
+        "sector": "소재",
+        "industry": "Specialty Chemicals"
+      },
+      {
+        "symbol": "PPL",
+        "name": "PPL Corporation",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "PFG",
+        "name": "Principal Financial Group",
+        "sector": "금융",
+        "industry": "Life & Health Insurance"
+      },
+      {
+        "symbol": "PG",
+        "name": "Procter & Gamble",
+        "sector": "필수소비재",
+        "industry": "Personal Care Products"
+      },
+      {
+        "symbol": "PGR",
+        "name": "Progressive Corporation",
+        "sector": "금융",
+        "industry": "Property & Casualty Insurance"
+      },
+      {
+        "symbol": "PLD",
+        "name": "Prologis",
+        "sector": "부동산",
+        "industry": "Industrial REITs"
+      },
+      {
+        "symbol": "PRU",
+        "name": "Prudential Financial",
+        "sector": "금융",
+        "industry": "Life & Health Insurance"
+      },
+      {
+        "symbol": "PEG",
+        "name": "Public Service Enterprise Group",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "PTC",
+        "name": "PTC Inc.",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "PSA",
+        "name": "Public Storage",
+        "sector": "부동산",
+        "industry": "Self-Storage REITs"
+      },
+      {
+        "symbol": "PHM",
+        "name": "PulteGroup",
+        "sector": "경기소비재",
+        "industry": "Homebuilding"
+      },
+      {
+        "symbol": "PWR",
+        "name": "Quanta Services",
+        "sector": "산업재",
+        "industry": "Construction & Engineering"
+      },
+      {
+        "symbol": "QCOM",
+        "name": "Qualcomm",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "DGX",
+        "name": "Quest Diagnostics",
+        "sector": "헬스케어",
+        "industry": "Health Care Services"
+      },
+      {
+        "symbol": "Q",
+        "name": "Qnity Electronics",
+        "sector": "반도체",
+        "industry": "Semiconductor Materials & Equipment"
+      },
+      {
+        "symbol": "RL",
+        "name": "Ralph Lauren Corporation",
+        "sector": "경기소비재",
+        "industry": "Apparel, Accessories & Luxury Goods"
+      },
+      {
+        "symbol": "RJF",
+        "name": "Raymond James Financial",
+        "sector": "금융",
+        "industry": "Investment Banking & Brokerage"
+      },
+      {
+        "symbol": "RDDT",
+        "name": "Reddit",
+        "sector": "커뮤니케이션",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "symbol": "RTX",
+        "name": "RTX Corporation",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "O",
+        "name": "Realty Income",
+        "sector": "부동산",
+        "industry": "Retail REITs"
+      },
+      {
+        "symbol": "REG",
+        "name": "Regency Centers",
+        "sector": "부동산",
+        "industry": "Retail REITs"
+      },
+      {
+        "symbol": "REGN",
+        "name": "Regeneron Pharmaceuticals",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "RF",
+        "name": "Regions Financial Corporation",
+        "sector": "금융",
+        "industry": "Regional Banks"
+      },
+      {
+        "symbol": "RSG",
+        "name": "Republic Services",
+        "sector": "산업재",
+        "industry": "Environmental & Facilities Services"
+      },
+      {
+        "symbol": "RMD",
+        "name": "ResMed|",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "RVTY",
+        "name": "Revvity",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "HOOD",
+        "name": "Robinhood Markets",
+        "sector": "금융",
+        "industry": "Investment Banking & Brokerage"
+      },
+      {
+        "symbol": "ROK",
+        "name": "Rockwell Automation",
+        "sector": "산업재",
+        "industry": "Electrical Components & Equipment"
+      },
+      {
+        "symbol": "ROL",
+        "name": "Rollins, Inc.",
+        "sector": "산업재",
+        "industry": "Environmental & Facilities Services"
+      },
+      {
+        "symbol": "ROP",
+        "name": "Roper Technologies",
+        "sector": "기술",
+        "industry": "Electronic Equipment & Instruments"
+      },
+      {
+        "symbol": "ROST",
+        "name": "Ross Stores",
+        "sector": "경기소비재",
+        "industry": "Apparel Retail"
+      },
+      {
+        "symbol": "RCL",
+        "name": "Royal Caribbean Group",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "SPGI",
+        "name": "S&P Global",
+        "sector": "금융",
+        "industry": "Financial Exchanges & Data"
+      },
+      {
+        "symbol": "CRM",
+        "name": "Salesforce",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "SNDK",
+        "name": "Sandisk",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "SBAC",
+        "name": "SBA Communications",
+        "sector": "부동산",
+        "industry": "Telecom Tower REITs"
+      },
+      {
+        "symbol": "SLB",
+        "name": "Schlumberger",
+        "sector": "에너지",
+        "industry": "Oil & Gas Equipment & Services"
+      },
+      {
+        "symbol": "STX",
+        "name": "Seagate Technology",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "SRE",
+        "name": "Sempra",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "NOW",
+        "name": "ServiceNow",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "SHW",
+        "name": "Sherwin-Williams",
+        "sector": "소재",
+        "industry": "Specialty Chemicals"
+      },
+      {
+        "symbol": "SPG",
+        "name": "Simon Property Group",
+        "sector": "부동산",
+        "industry": "Retail REITs"
+      },
+      {
+        "symbol": "SKYD",
+        "name": "Skydance Corporation",
+        "sector": "커뮤니케이션",
+        "industry": "Movies & Entertainment"
+      },
+      {
+        "symbol": "SWKS",
+        "name": "Skyworks Solutions",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "SJM",
+        "name": "J.M. Smucker Company (The)",
+        "sector": "필수소비재",
+        "industry": "Packaged Foods & Meats"
+      },
+      {
+        "symbol": "SW",
+        "name": "Smurfit Westrock",
+        "sector": "소재",
+        "industry": "Paper & Plastic Packaging Products & Materials"
+      },
+      {
+        "symbol": "SNA",
+        "name": "Snap-on",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "SOLV",
+        "name": "Solventum",
+        "sector": "헬스케어",
+        "industry": "Health Care Technology"
+      },
+      {
+        "symbol": "SO",
+        "name": "Southern Company",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "LUV",
+        "name": "Southwest Airlines",
+        "sector": "산업재",
+        "industry": "Passenger Airlines"
+      },
+      {
+        "symbol": "SWK",
+        "name": "Stanley Black & Decker",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "SBUX",
+        "name": "Starbucks",
+        "sector": "경기소비재",
+        "industry": "Restaurants"
+      },
+      {
+        "symbol": "STT",
+        "name": "State Street Corporation",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "STLD",
+        "name": "Steel Dynamics",
+        "sector": "소재",
+        "industry": "Steel"
+      },
+      {
+        "symbol": "STE",
+        "name": "Steris",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "SYK",
+        "name": "Stryker Corporation",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "SMCI",
+        "name": "Supermicro",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "SYF",
+        "name": "Synchrony Financial",
+        "sector": "금융",
+        "industry": "Consumer Finance"
+      },
+      {
+        "symbol": "SNPS",
+        "name": "Synopsys",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "SYY",
+        "name": "Sysco",
+        "sector": "필수소비재",
+        "industry": "Food Distributors"
+      },
+      {
+        "symbol": "TMUS",
+        "name": "T-Mobile US",
+        "sector": "커뮤니케이션",
+        "industry": "Wireless Telecommunication Services"
+      },
+      {
+        "symbol": "TROW",
+        "name": "T. Rowe Price",
+        "sector": "금융",
+        "industry": "Asset Management & Custody Banks"
+      },
+      {
+        "symbol": "TTWO",
+        "name": "Take-Two Interactive",
+        "sector": "커뮤니케이션",
+        "industry": "Interactive Home Entertainment"
+      },
+      {
+        "symbol": "TPR",
+        "name": "Tapestry, Inc.",
+        "sector": "경기소비재",
+        "industry": "Apparel, Accessories & Luxury Goods"
+      },
+      {
+        "symbol": "TRGP",
+        "name": "Targa Resources",
+        "sector": "에너지",
+        "industry": "Oil & Gas Storage & Transportation"
+      },
+      {
+        "symbol": "TGT",
+        "name": "Target Corporation",
+        "sector": "필수소비재",
+        "industry": "Consumer Staples Merchandise Retail"
+      },
+      {
+        "symbol": "TEL",
+        "name": "TE Connectivity",
+        "sector": "기술",
+        "industry": "Electronic Manufacturing Services"
+      },
+      {
+        "symbol": "TDY",
+        "name": "Teledyne Technologies",
+        "sector": "기술",
+        "industry": "Electronic Equipment & Instruments"
+      },
+      {
+        "symbol": "TER",
+        "name": "Teradyne",
+        "sector": "반도체",
+        "industry": "Semiconductor Materials & Equipment"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "sector": "경기소비재",
+        "industry": "Automobile Manufacturers"
+      },
+      {
+        "symbol": "TXN",
+        "name": "Texas Instruments",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "TPL",
+        "name": "Texas Pacific Land Corporation",
+        "sector": "에너지",
+        "industry": "Oil & Gas Exploration & Production"
+      },
+      {
+        "symbol": "TXT",
+        "name": "Textron",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "TMO",
+        "name": "Thermo Fisher Scientific",
+        "sector": "헬스케어",
+        "industry": "Life Sciences Tools & Services"
+      },
+      {
+        "symbol": "TJX",
+        "name": "TJX Companies",
+        "sector": "경기소비재",
+        "industry": "Apparel Retail"
+      },
+      {
+        "symbol": "TKO",
+        "name": "TKO Group Holdings",
+        "sector": "커뮤니케이션",
+        "industry": "Movies & Entertainment"
+      },
+      {
+        "symbol": "TSCO",
+        "name": "Tractor Supply",
+        "sector": "경기소비재",
+        "industry": "Other Specialty Retail"
+      },
+      {
+        "symbol": "TT",
+        "name": "Trane Technologies",
+        "sector": "산업재",
+        "industry": "Building Products"
+      },
+      {
+        "symbol": "TDG",
+        "name": "TransDigm Group",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "TRV",
+        "name": "Travelers Companies (The)",
+        "sector": "금융",
+        "industry": "Property & Casualty Insurance"
+      },
+      {
+        "symbol": "TRMB",
+        "name": "Trimble Inc.",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "TFC",
+        "name": "Truist Financial",
+        "sector": "금융",
+        "industry": "Diversified Banks"
+      },
+      {
+        "symbol": "TWLO",
+        "name": "Twilio",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "TYL",
+        "name": "Tyler Technologies",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "TSN",
+        "name": "Tyson Foods",
+        "sector": "필수소비재",
+        "industry": "Packaged Foods & Meats"
+      },
+      {
+        "symbol": "USB",
+        "name": "U.S. Bancorp",
+        "sector": "금융",
+        "industry": "Diversified Banks"
+      },
+      {
+        "symbol": "UBER",
+        "name": "Uber",
+        "sector": "산업재",
+        "industry": "Passenger Ground Transportation"
+      },
+      {
+        "symbol": "UDR",
+        "name": "UDR, Inc.",
+        "sector": "부동산",
+        "industry": "Multi-Family Residential REITs"
+      },
+      {
+        "symbol": "ULTA",
+        "name": "Ulta Beauty",
+        "sector": "경기소비재",
+        "industry": "Other Specialty Retail"
+      },
+      {
+        "symbol": "UNP",
+        "name": "Union Pacific Corporation",
+        "sector": "산업재",
+        "industry": "Rail Transportation"
+      },
+      {
+        "symbol": "UAL",
+        "name": "United Airlines Holdings",
+        "sector": "산업재",
+        "industry": "Passenger Airlines"
+      },
+      {
+        "symbol": "UPS",
+        "name": "United Parcel Service",
+        "sector": "산업재",
+        "industry": "Air Freight & Logistics"
+      },
+      {
+        "symbol": "URI",
+        "name": "United Rentals",
+        "sector": "산업재",
+        "industry": "Trading Companies & Distributors"
+      },
+      {
+        "symbol": "UNH",
+        "name": "UnitedHealth Group",
+        "sector": "헬스케어",
+        "industry": "Managed Health Care"
+      },
+      {
+        "symbol": "UHS",
+        "name": "Universal Health Services",
+        "sector": "헬스케어",
+        "industry": "Health Care Facilities"
+      },
+      {
+        "symbol": "VLO",
+        "name": "Valero Energy",
+        "sector": "에너지",
+        "industry": "Oil & Gas Refining & Marketing"
+      },
+      {
+        "symbol": "VEEV",
+        "name": "Veeva Systems",
+        "sector": "헬스케어",
+        "industry": "Health Care Technology"
+      },
+      {
+        "symbol": "VTR",
+        "name": "Ventas",
+        "sector": "부동산",
+        "industry": "Health Care REITs"
+      },
+      {
+        "symbol": "VLTO",
+        "name": "Veralto",
+        "sector": "산업재",
+        "industry": "Environmental & Facilities Services"
+      },
+      {
+        "symbol": "VRSN",
+        "name": "Verisign",
+        "sector": "기술",
+        "industry": "Internet Services & Infrastructure"
+      },
+      {
+        "symbol": "VRSK",
+        "name": "Verisk Analytics",
+        "sector": "산업재",
+        "industry": "Research & Consulting Services"
+      },
+      {
+        "symbol": "VZ",
+        "name": "Verizon",
+        "sector": "커뮤니케이션",
+        "industry": "Integrated Telecommunication Services"
+      },
+      {
+        "symbol": "VRTX",
+        "name": "Vertex Pharmaceuticals",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "VRT",
+        "name": "Vertiv",
+        "sector": "산업재",
+        "industry": "Electrical Components & Equipment"
+      },
+      {
+        "symbol": "VTRS",
+        "name": "Viatris",
+        "sector": "헬스케어",
+        "industry": "Pharmaceuticals"
+      },
+      {
+        "symbol": "VICI",
+        "name": "Vici Properties",
+        "sector": "부동산",
+        "industry": "Hotel & Resort REITs"
+      },
+      {
+        "symbol": "V",
+        "name": "Visa Inc.",
+        "sector": "금융",
+        "industry": "Transaction & Payment Processing Services"
+      },
+      {
+        "symbol": "VST",
+        "name": "Vistra Corp.",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "VMRK",
+        "name": "Vivmark Residential",
+        "sector": "부동산",
+        "industry": "Multi-Family Residential REITs"
+      },
+      {
+        "symbol": "VMC",
+        "name": "Vulcan Materials Company",
+        "sector": "소재",
+        "industry": "Construction Materials"
+      },
+      {
+        "symbol": "VYLR",
+        "name": "Vylor",
+        "sector": "필수소비재",
+        "industry": "Agricultural Products & Services"
+      },
+      {
+        "symbol": "WRB",
+        "name": "W. R. Berkley Corporation",
+        "sector": "금융",
+        "industry": "Property & Casualty Insurance"
+      },
+      {
+        "symbol": "GWW",
+        "name": "W. W. Grainger",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "WAB",
+        "name": "Wabtec",
+        "sector": "산업재",
+        "industry": "Construction Machinery & Heavy Transportation Equipment"
+      },
+      {
+        "symbol": "WMT",
+        "name": "Walmart",
+        "sector": "필수소비재",
+        "industry": "Consumer Staples Merchandise Retail"
+      },
+      {
+        "symbol": "DIS",
+        "name": "Walt Disney Company (The)",
+        "sector": "커뮤니케이션",
+        "industry": "Movies & Entertainment"
+      },
+      {
+        "symbol": "WM",
+        "name": "Waste Management",
+        "sector": "산업재",
+        "industry": "Environmental & Facilities Services"
+      },
+      {
+        "symbol": "WAT",
+        "name": "Waters Corporation",
+        "sector": "헬스케어",
+        "industry": "Life Sciences Tools & Services"
+      },
+      {
+        "symbol": "WEC",
+        "name": "WEC Energy Group",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "WFC",
+        "name": "Wells Fargo",
+        "sector": "금융",
+        "industry": "Diversified Banks"
+      },
+      {
+        "symbol": "WELL",
+        "name": "Welltower",
+        "sector": "부동산",
+        "industry": "Health Care REITs"
+      },
+      {
+        "symbol": "WST",
+        "name": "West Pharmaceutical Services",
+        "sector": "헬스케어",
+        "industry": "Health Care Supplies"
+      },
+      {
+        "symbol": "WDC",
+        "name": "Western Digital",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "WY",
+        "name": "Weyerhaeuser",
+        "sector": "부동산",
+        "industry": "Timber REITs"
+      },
+      {
+        "symbol": "WSM",
+        "name": "Williams-Sonoma, Inc.",
+        "sector": "경기소비재",
+        "industry": "Homefurnishing Retail"
+      },
+      {
+        "symbol": "WMB",
+        "name": "Williams Companies",
+        "sector": "에너지",
+        "industry": "Oil & Gas Storage & Transportation"
+      },
+      {
+        "symbol": "WTW",
+        "name": "Willis Towers Watson",
+        "sector": "금융",
+        "industry": "Insurance Brokers"
+      },
+      {
+        "symbol": "WDAY",
+        "name": "Workday, Inc.",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "WYNN",
+        "name": "Wynn Resorts",
+        "sector": "경기소비재",
+        "industry": "Casinos & Gaming"
+      },
+      {
+        "symbol": "XEL",
+        "name": "Xcel Energy",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "symbol": "XYL",
+        "name": "Xylem Inc.",
+        "sector": "산업재",
+        "industry": "Industrial Machinery & Supplies & Components"
+      },
+      {
+        "symbol": "YUM",
+        "name": "Yum! Brands",
+        "sector": "경기소비재",
+        "industry": "Restaurants"
+      },
+      {
+        "symbol": "ZBRA",
+        "name": "Zebra Technologies",
+        "sector": "기술",
+        "industry": "Electronic Equipment & Instruments"
+      },
+      {
+        "symbol": "ZBH",
+        "name": "Zimmer Biomet",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "ZTS",
+        "name": "Zoetis",
+        "sector": "헬스케어",
+        "industry": "Pharmaceuticals"
+      }
+    ],
+    "nasdaq100": [
+      {
+        "symbol": "ADBE",
+        "name": "Adobe Inc.",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "ABNB",
+        "name": "Airbnb",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "ALNY",
+        "name": "Alnylam Pharmaceuticals",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc. (Class A)",
+        "sector": "커뮤니케이션",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "symbol": "GOOG",
+        "name": "Alphabet Inc. (Class C)",
+        "sector": "커뮤니케이션",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon",
+        "sector": "경기소비재",
+        "industry": "Broadline Retail"
+      },
+      {
+        "symbol": "AEP",
+        "name": "American Electric Power",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "AMGN",
+        "name": "Amgen",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "ADI",
+        "name": "Analog Devices",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "AMAT",
+        "name": "Applied Materials",
+        "sector": "반도체",
+        "industry": "Semiconductor Materials & Equipment"
+      },
+      {
+        "symbol": "APP",
+        "name": "AppLovin",
+        "sector": "커뮤니케이션",
+        "industry": "Advertising"
+      },
+      {
+        "symbol": "ARM",
+        "name": "Arm Holdings",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "ASML",
+        "name": "ASML Holding",
+        "sector": "기술",
+        "industry": "Industrial Machinery"
+      },
+      {
+        "symbol": "ALAB",
+        "name": "Astera Labs",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "ADSK",
+        "name": "Autodesk",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "ADP",
+        "name": "Automatic Data Processing",
+        "sector": "산업재",
+        "industry": "Human Resource & Employment Services"
+      },
+      {
+        "symbol": "AXON",
+        "name": "Axon Enterprise",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "BKR",
+        "name": "Baker Hughes",
+        "sector": "에너지",
+        "industry": "Oil & Gas Equipment & Services"
+      },
+      {
+        "symbol": "BKNG",
+        "name": "Booking Holdings",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "AVGO",
+        "name": "Broadcom",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "CDNS",
+        "name": "Cadence Design Systems",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "CTAS",
+        "name": "Cintas",
+        "sector": "산업재",
+        "industry": "Diversified Support Services"
+      },
+      {
+        "symbol": "CSCO",
+        "name": "Cisco",
+        "sector": "기술",
+        "industry": "Communications Equipment"
+      },
+      {
+        "symbol": "CCEP",
+        "name": "Coca-Cola Europacific Partners",
+        "sector": "필수소비재",
+        "industry": "Soft Drinks"
+      },
+      {
+        "symbol": "CMCSA",
+        "name": "Comcast",
+        "sector": "커뮤니케이션",
+        "industry": "Cable & Satellite"
+      },
+      {
+        "symbol": "CEG",
+        "name": "Constellation Energy",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "CPRT",
+        "name": "Copart",
+        "sector": "산업재",
+        "industry": "Diversified Support Services"
+      },
+      {
+        "symbol": "CRWV",
+        "name": "CoreWeave",
+        "sector": "기술",
+        "industry": "Computer Services"
+      },
+      {
+        "symbol": "COST",
+        "name": "Costco",
+        "sector": "필수소비재",
+        "industry": "Consumer Staples Merchandise Retail"
+      },
+      {
+        "symbol": "CRWD",
+        "name": "CrowdStrike",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "CSX",
+        "name": "CSX Corporation",
+        "sector": "산업재",
+        "industry": "Rail Transportation"
+      },
+      {
+        "symbol": "DDOG",
+        "name": "Datadog",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "DXCM",
+        "name": "DexCom",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "FANG",
+        "name": "Diamondback Energy",
+        "sector": "에너지",
+        "industry": "Oil & Gas Exploration & Production"
+      },
+      {
+        "symbol": "DASH",
+        "name": "DoorDash",
+        "sector": "경기소비재",
+        "industry": "Specialized Consumer Services"
+      },
+      {
+        "symbol": "EXC",
+        "name": "Exelon",
+        "sector": "유틸리티",
+        "industry": "Electric Utilities"
+      },
+      {
+        "symbol": "FAST",
+        "name": "Fastenal",
+        "sector": "산업재",
+        "industry": "Trading Companies & Distributors"
+      },
+      {
+        "symbol": "FER",
+        "name": "Ferrovial",
+        "sector": "산업재",
+        "industry": "Military, Government, Technical"
+      },
+      {
+        "symbol": "FTNT",
+        "name": "Fortinet",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "GEHC",
+        "name": "GE HealthCare",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "GILD",
+        "name": "Gilead Sciences",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "HONA",
+        "name": "Honeywell Aerospace",
+        "sector": "산업재",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "symbol": "HON",
+        "name": "Honeywell Technologies",
+        "sector": "산업재",
+        "industry": "Industrial Conglomerates"
+      },
+      {
+        "symbol": "IDXX",
+        "name": "Idexx Laboratories",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "INTC",
+        "name": "Intel",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "INTU",
+        "name": "Intuit",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "ISRG",
+        "name": "Intuitive Surgical",
+        "sector": "헬스케어",
+        "industry": "Health Care Equipment"
+      },
+      {
+        "symbol": "KDP",
+        "name": "Keurig Dr Pepper",
+        "sector": "필수소비재",
+        "industry": "Soft Drinks & Non-alcoholic Beverages"
+      },
+      {
+        "symbol": "KLAC",
+        "name": "KLA Corporation",
+        "sector": "반도체",
+        "industry": "Semiconductor Materials & Equipment"
+      },
+      {
+        "symbol": "LRCX",
+        "name": "Lam Research",
+        "sector": "반도체",
+        "industry": "Semiconductor Materials & Equipment"
+      },
+      {
+        "symbol": "LIN",
+        "name": "Linde plc",
+        "sector": "소재",
+        "industry": "Industrial Gases"
+      },
+      {
+        "symbol": "LITE",
+        "name": "Lumentum",
+        "sector": "기술",
+        "industry": "Communications Equipment"
+      },
+      {
+        "symbol": "MAR",
+        "name": "Marriott International",
+        "sector": "경기소비재",
+        "industry": "Hotels, Resorts & Cruise Lines"
+      },
+      {
+        "symbol": "MRVL",
+        "name": "Marvell Technology",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "MELI",
+        "name": "Mercado Libre",
+        "sector": "경기소비재",
+        "industry": "Catalog/Specialty Distribution"
+      },
+      {
+        "symbol": "META",
+        "name": "Meta Platforms",
+        "sector": "커뮤니케이션",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "symbol": "MCHP",
+        "name": "Microchip Technology",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron Technology",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "MSTR",
+        "name": "MicroStrategy",
+        "sector": "기술",
+        "industry": "Software"
+      },
+      {
+        "symbol": "MRNA",
+        "name": "Moderna",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "MDLZ",
+        "name": "Mondelez International",
+        "sector": "필수소비재",
+        "industry": "Packaged Foods & Meats"
+      },
+      {
+        "symbol": "MPWR",
+        "name": "Monolithic Power Systems",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "MNST",
+        "name": "Monster Beverage",
+        "sector": "필수소비재",
+        "industry": "Soft Drinks & Non-alcoholic Beverages"
+      },
+      {
+        "symbol": "NBIS",
+        "name": "Nebius Group",
+        "sector": "기술",
+        "industry": "Computer Services"
+      },
+      {
+        "symbol": "NFLX",
+        "name": "Netflix, Inc.",
+        "sector": "커뮤니케이션",
+        "industry": "Movies & Entertainment"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "NXPI",
+        "name": "NXP Semiconductors",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "ORLY",
+        "name": "O'Reilly Automotive",
+        "sector": "경기소비재",
+        "industry": "Automotive Retail"
+      },
+      {
+        "symbol": "ODFL",
+        "name": "Old Dominion Freight Line",
+        "sector": "산업재",
+        "industry": "Cargo Ground Transportation"
+      },
+      {
+        "symbol": "PCAR",
+        "name": "Paccar",
+        "sector": "산업재",
+        "industry": "Construction Machinery & Heavy Transportation Equipment"
+      },
+      {
+        "symbol": "PLTR",
+        "name": "Palantir Technologies",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "PANW",
+        "name": "Palo Alto Networks",
+        "sector": "기술",
+        "industry": "Systems Software"
+      },
+      {
+        "symbol": "PAYX",
+        "name": "Paychex",
+        "sector": "산업재",
+        "industry": "Human Resource & Employment Services"
+      },
+      {
+        "symbol": "PYPL",
+        "name": "PayPal",
+        "sector": "금융",
+        "industry": "Transaction & Payment Processing Services"
+      },
+      {
+        "symbol": "PDD",
+        "name": "PDD Holdings",
+        "sector": "기술",
+        "industry": "EDP Services"
+      },
+      {
+        "symbol": "PEP",
+        "name": "PepsiCo",
+        "sector": "필수소비재",
+        "industry": "Soft Drinks & Non-alcoholic Beverages"
+      },
+      {
+        "symbol": "QCOM",
+        "name": "Qualcomm",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "REGN",
+        "name": "Regeneron Pharmaceuticals",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "RKLB",
+        "name": "Rocket Lab",
+        "sector": "산업재",
+        "industry": "Aerospace"
+      },
+      {
+        "symbol": "ROP",
+        "name": "Roper Technologies",
+        "sector": "기술",
+        "industry": "Electronic Equipment & Instruments"
+      },
+      {
+        "symbol": "ROST",
+        "name": "Ross Stores",
+        "sector": "경기소비재",
+        "industry": "Apparel Retail"
+      },
+      {
+        "symbol": "SNDK",
+        "name": "Sandisk",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "STX",
+        "name": "Seagate Technology",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "SHOP",
+        "name": "Shopify",
+        "sector": "기술",
+        "industry": "Software"
+      },
+      {
+        "symbol": "SPCX",
+        "name": "SpaceX",
+        "sector": "커뮤니케이션",
+        "industry": "Telecommunications Services"
+      },
+      {
+        "symbol": "SBUX",
+        "name": "Starbucks",
+        "sector": "경기소비재",
+        "industry": "Restaurants"
+      },
+      {
+        "symbol": "SNPS",
+        "name": "Synopsys",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "TMUS",
+        "name": "T-Mobile US",
+        "sector": "커뮤니케이션",
+        "industry": "Wireless Telecommunication Services"
+      },
+      {
+        "symbol": "TTWO",
+        "name": "Take-Two Interactive",
+        "sector": "커뮤니케이션",
+        "industry": "Interactive Home Entertainment"
+      },
+      {
+        "symbol": "TER",
+        "name": "Teradyne",
+        "sector": "반도체",
+        "industry": "Semiconductor Materials & Equipment"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "sector": "경기소비재",
+        "industry": "Automobile Manufacturers"
+      },
+      {
+        "symbol": "TXN",
+        "name": "Texas Instruments",
+        "sector": "반도체",
+        "industry": "Semiconductors"
+      },
+      {
+        "symbol": "TRI",
+        "name": "Thomson Reuters",
+        "sector": "기술",
+        "industry": "Software"
+      },
+      {
+        "symbol": "VRTX",
+        "name": "Vertex Pharmaceuticals",
+        "sector": "헬스케어",
+        "industry": "Biotechnology"
+      },
+      {
+        "symbol": "WMT",
+        "name": "Walmart",
+        "sector": "필수소비재",
+        "industry": "Consumer Staples Merchandise Retail"
+      },
+      {
+        "symbol": "WDC",
+        "name": "Western Digital",
+        "sector": "기술",
+        "industry": "Technology Hardware, Storage & Peripherals"
+      },
+      {
+        "symbol": "WDAY",
+        "name": "Workday, Inc.",
+        "sector": "기술",
+        "industry": "Application Software"
+      },
+      {
+        "symbol": "XEL",
+        "name": "Xcel Energy",
+        "sector": "유틸리티",
+        "industry": "Multi-Utilities"
+      }
+    ]
+  },
+  "fetched_at": "2026-10-12T08:46:18+00:00",
+  "sources": {
+    "sp500": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+    "nasdaq100": "https://en.wikipedia.org/wiki/List_of_NASDAQ-100_companies"
+  }
+}
