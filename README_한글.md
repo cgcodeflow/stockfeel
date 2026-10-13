@@ -38,6 +38,17 @@ Install dependencies with: pip install -r requirements.txt<br>
     waitress>=3.0.2,<4<br>
     tzdata>=2024.1<br>
 
+## 설치방법 (리눅스/MacOS/Docker) 
+- Git Clone 또는 파일을 모두 받는다. `it clone https://github.com/cgcodeflow/stockfeel.git`
+- 가상 환경을 설정한다. (venv or conda):
+  `cd stockfeel`<br>
+  `python3 -m venv .venv`<br>
+  `source .venv/bin/activate`<br>
+- 추가 필요 항목들을 설치한다. `pip install -r requirements.txt`
+- (옵션) `.ini` 세팅을 원하는대로 수정한다.
+- 파이썬 서버를 실행한다: `python stockfeel.py`
+- 웹브라우저를 열고 로컬IP:포트 로 접속한다. `http://127.0.0.1:55557` (다른 컴퓨터에서 접속할때는 서버 실행 컴퓨터의 IP를 이용해서 접속).
+
 ## 데이터 소스<br>
 야후 파이낸스 [yfinance](https://github.com/ranaroussi/yfinance), 비공식 연구용 야후 파이낸스 API 를 이용하므로, 상용 API만큼 빠른 정보를 제공하지 않습니다. 약 10분의 딜레이가 있으므로 실시간 트레이딩 용으로는 사용이 어렵습니다.<br>
 야후 파이낸스는 코스닥150의 지표는 제공하지 않으므로, 각 섹터 종목 정보를 받아서 갱신합니다. 종목 정보는 삼성자산운용등의 코스닥 150 ETF 투자 종목정보를 참조합니다.<br>
