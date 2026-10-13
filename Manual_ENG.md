@@ -16,16 +16,6 @@ python3 stockfeel_nas.py
 
 Open http://SERVER_IP:55557 in your browser. Keep the process running. Use Docker or a service manager for continuous operation.
 
-## Synology / Docker
-
-Copy the complete extracted folder, including stockfeel_nas_cache. In Container Manager, create a project using compose.nas.yaml. With Docker Compose installed, you can also run:
-
-```bash
-docker compose -f compose.nas.yaml up -d --build
-```
-
-The default port mapping is 55557:55557. If you change the INI server port, update the container-side port in Compose too. The project folder is mounted read-only; the cache folder is mounted separately with write access.
-
 ## Required files
 
 - stockfeel_nas.py: server
@@ -35,7 +25,6 @@ The default port mapping is 55557:55557. If you change the INI server port, upda
 - bottom_title.html: editable footer
 - stockfeel_assets/: mood images, translations and initial constituent lists
 - stockfeel_nas_requirements.txt: Python dependencies
-- Dockerfile.nas and compose.nas.yaml: Docker deployment
 
 Direct Python execution creates the cache folder automatically. The process needs write permission. Synology may require the bind-mount source folder to exist before deployment; keep the supplied cache folder next to compose.nas.yaml.
 
