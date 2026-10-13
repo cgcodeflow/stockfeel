@@ -39,7 +39,7 @@ Install dependencies with: pip install -r requirements.txt<br>
     tzdata>=2024.1<br>
 
 ## 설치방법 (리눅스/MacOS/Docker) 
-- Git Clone 또는 파일을 모두 받는다. `it clone https://github.com/cgcodeflow/stockfeel.git`
+- Git Clone 또는 파일을 모두 받는다. `git clone https://github.com/cgcodeflow/stockfeel.git`
 - 가상 환경을 설정한다. (venv or conda):
   `cd stockfeel`<br>
   `python3 -m venv .venv`<br>
