@@ -28,7 +28,7 @@
 - 포터블 버전은 자체적인 CA/SSL 인증을 요구하는 **회사/기업체 등의 내부망에서는 동작하지 않습니다.** 이것은 각 회사의 보안 정책이므로, 보안 담당자에게 문의하세요.
 
 ## Requirements<br>
-- Python >= 3.12<br>
+- Python >= 3.10<br>
 Install dependencies with: pip install -r requirements.txt<br>
     Flask>=3.0,<4<br>
     pandas>=2.2,<4<br>
