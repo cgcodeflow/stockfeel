@@ -1,7 +1,5 @@
 # Stockfeel NAS
 
-English instructions
-
 NAS 실행 파일과 INI는 독립적이며, 화면은 stockfeel.html, 이미지는 stockfeel_assets 폴더를 사용합니다.
 
 ## 설정
