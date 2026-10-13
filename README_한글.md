@@ -4,8 +4,6 @@
 <br>
 어떤 기능인지는 우측 사이트에서 먼저 체크해 볼 수 있습니다 : https://stockfeel.net
 
-
-
 ## What it does
 - Scores representative stocks in the **US** and **Korean** markets based on 1-week / 3-month price changes and distance from their recent high.<br>
 - Shows the **mood of each sector** at a glance, so you can see how the trend has developed so far.<br>
