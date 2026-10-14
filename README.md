@@ -33,7 +33,7 @@ Install dependencies with: pip install -r requirements.txt<br>
     tzdata>=2024.1<br>
 
 ## How to Install ## 
-- Git Clone or Download Stockfeel files. `it clone https://github.com/cgcodeflow/stockfeel.git`
+- Git Clone or Download Stockfeel files. `git clone https://github.com/cgcodeflow/stockfeel.git`
 - Create and activate a virtual environment (venv or conda):
   `cd stockfeel`<br>
   `python3 -m venv .venv`<br>
